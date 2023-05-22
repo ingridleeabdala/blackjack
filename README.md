@@ -16,9 +16,9 @@ Este script Python implementa um simples jogo de cartas baseado no Blackjack, ta
 
 O script utiliza as seguintes bibliotecas:
 
-requests
-json
-datetime
+requests  
+json  
+datetime  
 
 ## Instalação
 
