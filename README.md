@@ -26,14 +26,12 @@ Instale-as seguindo a instrução (json e datetime são bibliotecas padrão do P
 
 ```
 pip install -r requirements.txt
-
 ```
 
 ## Como executar
 
 ```
-python3 jogo.py
-
+python3 main.py
 ```
 
 ## Instruções de Uso
