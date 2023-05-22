@@ -38,12 +38,12 @@ python3 jogo.py
 
 ## Instruções de Uso
 
-1 - Certifique-se de ter as bibliotecas necessárias instaladas.
-2 - Execute o script Python.
-3 - Quando solicitado, insira o número de jogadores (máximo 4).
-4 - Cada jogador será solicitado a comprar mais cartas ou parar.
-5 - Depois que todos os jogadores tiverem terminado, os vencedores serão anunciados e o jogo será registrado.
-6 - Você pode optar por jogar novamente ou parar.
+1 - Certifique-se de ter as bibliotecas necessárias instaladas.  
+2 - Execute o script Python.  
+3 - Quando solicitado, insira o número de jogadores (máximo 4).  
+4 - Cada jogador será solicitado a comprar mais cartas ou parar.  
+5 - Depois que todos os jogadores tiverem terminado, os vencedores serão anunciados e o jogo será registrado.  
+6 - Você pode optar por jogar novamente ou parar.  
 
 ## Funcionamento do Jogo
 
